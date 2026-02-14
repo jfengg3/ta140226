@@ -1,0 +1,6 @@
+postId,id,name,email,body
+1,1,Post with "quotes",test@example.com,"Body with ""nested quotes"" and commas, here"
+2,2,Newline Test,test2@example.com,"Body with
+actual newlines
+in the text"
+3,3,Special <chars>,test3@example.com,Body with <html> tags & symbols!

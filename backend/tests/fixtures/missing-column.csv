@@ -1,0 +1,3 @@
+postId,id,name,body
+1,1,Missing Email Column,This CSV is missing the email column
+2,2,Another Row,Without email field

@@ -1,0 +1,4 @@
+postId,id,name,email,body
+1,1,Bad Email Post,not-an-email,This post has an invalid email
+1,2,Another Bad Email,invalid@,Another invalid email format
+2,3,Missing At Sign,missingat.com,Email without @ symbol
